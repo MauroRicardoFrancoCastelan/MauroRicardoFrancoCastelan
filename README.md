@@ -40,6 +40,3 @@ Considero que al contar con un amplio conocimiento en programacion y al saber tr
 Desarrollé junto a un equipo un sistema de reinscripción para el CBTis 179 en un periodo de 3 meses (01/11/2021 – 01/02/2022). Desempeñé el rol desarrollador full stack, trabajando en 
 back-end y front-end. Una vez implementado el sistema en la página oficial, mejor la eficiencia de la pagina bastante, logrando inscribir mayor cantidad de alumnos y de forma más rápida.
 
-
-
-### ⚙️ &nbsp;GitHub Analytics
