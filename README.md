@@ -54,7 +54,7 @@ Desarrollé un sistema de una tienda online, con inicio de sesión y registro de
 ![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/productosTienda.png)\
 ![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/barraBusqueda.png)
 
-Puedes ver el codigo completo y la base de datos en este[enlace](https://github.com/MauroRicardoFrancoCastelan/tiendaOnline).
+Puedes ver el codigo completo y la base de datos en este [enlace](https://github.com/MauroRicardoFrancoCastelan/tiendaOnline).
 
 <h3>Migracion en sistema gestor de una floreria</h3>
 En colaboración con un compañero, desarrollamos un sistema que, a pesar de su diseño sencillo, proporciona una funcionalidad robusta. El sistema permite actualizaciones en tiempo real de la base de datos, reflejando las ventas y las acciones realizadas por cada usuario.<br><br>
