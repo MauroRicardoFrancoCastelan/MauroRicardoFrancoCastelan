@@ -9,7 +9,7 @@
 Mi objetivo es mostrar mis proyectos académicos y trabajos de programación a lo largo de mi vida\
 🎓 &nbsp;: Estudiando en la Politécnica de Tulancingo. Cursando el segundo año de la carrera.\
 :muscle: &nbsp;: En mi tiempo libre me gusta ir al gimnasio, escuchar música y jugar videojuegos.\
-✉️ &nbsp;: Puedes contactarme vía Gmail maurofrancocastelan@gmail.com! Tratare de responder lo más pronto posible.\
+✉️ &nbsp;: Puedes contactarme vía Gmail maurofrancocastelan@gmail.com Tratare de responder lo más pronto posible.\
 📄 &nbsp;Puedes revisar mi [CV](https://drive.google.com/file/d/1YCXGr3qkEUlbbVhbr1Oav71XxO9KqXhR/view?usp=sharing) para más detalles sobre mí. ¡Estoy abierto a feedback y sugerencias!
 
 
