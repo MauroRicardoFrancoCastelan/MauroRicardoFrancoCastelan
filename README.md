@@ -31,7 +31,7 @@ Mi objetivo es mostrar mis proyectos académicos y trabajos de programación a l
 Lenguajes y programas dominados.\
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,dart,flutter,bash,c,cs,cpp,java,html,js,css,php,mysql)](https://skillicons.dev)\
 Habilidades blandas: Trabajo en equipo, Resolución de problemas, Comunicación, Empatía.\
-Considero que al contar con un amplio conocimiento en programación y al saber trabajar en equipo, puedo ayudar y aportar en casi cualquier trabajo necesario, así como resolver problemas que se vayan generando
+Considero que al contar con un amplio conocimiento en programación y al saber trabajar en equipo, puedo ayudar y aportar en casi cualquier trabajo necesario, así como resolver problemas que vayan surgiendo.
 
 <h2>⚙️ &nbsp;Trabajos realizados</h2>
 
