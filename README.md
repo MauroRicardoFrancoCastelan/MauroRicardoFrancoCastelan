@@ -1,9 +1,9 @@
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! Soy Mauro Ricardo Franco Castelan</h2>
+<<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1 align="left">¡Hola! Soy Mauro Ricardo Franco Castelan</h1>
 
 <!-- ## 👋-->
 
-### 👨🏻‍💻 &nbsp;Sobre mi
+<h2>👨🏻‍💻 &nbsp;Sobre mi</h2>
 
 👨‍💻 &nbsp;: Estudiante de Ingeniería en Sistemas Computacionales con interés en el área de desarrollo web, mas en especifico en desarrollo Full stack, programación y configuración general en área de redes.
 Mi objetivo es mostrar mis proyectos academicos y trbajos de programacion a lo largo de mi vida\
@@ -26,7 +26,7 @@ Mi objetivo es mostrar mis proyectos academicos y trbajos de programacion a lo l
 :white_check_mark: Certificación de Google en Curso de Desarrollo de Apps Móviles.\
 :white_check_mark: Certificacion de Cambridge tomada en 2018 con nivel A2. (Aunque me considero con mucho mas nivel actualmente, minimo B2).
 
-### :computer: Competencias
+<h2>:computer: Competencias</h2>
 
 Lenguajes y programas dominados.\
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,dart,flutter,bash,c,cs,cpp,java,html,js,css,php,mysql)](https://skillicons.dev)\
@@ -35,8 +35,9 @@ Considero que al contar con un amplio conocimiento en programacion y al saber tr
 
 
 
-### ⚙️ &nbsp;Trabajos realizados
+<h2>⚙️ &nbsp;Trabajos realizados</h2>
 
+<h3>Pagina de Reinscripcion en CBTIS 179</h3>
 Desarrollé junto a un equipo un sistema de reinscripción para el CBTis 179 en un periodo de 3 meses (01/11/2021 – 01/02/2022). Desempeñé el rol desarrollador full stack, trabajando en 
 back-end y front-end. Una vez implementado el sistema en la página oficial, mejor la eficiencia de la pagina bastante, logrando inscribir mayor cantidad de alumnos y de forma más rápida.
 
