@@ -33,22 +33,26 @@ Lenguajes y programas dominados.\
 Habilidades blandas: Trabajo en equipo, Resolución de problemas, Comunicación, Empatía.\
 Considero que al contar con un amplio conocimiento en programación y al saber trabajar en equipo, puedo ayudar y aportar en casi cualquier trabajo necesario, así como resolver problemas que se vayan generando
 
-
-
 <h2>⚙️ &nbsp;Trabajos realizados</h2>
 
 <h3>Pagina de Reinscripción en CBTIS 179</h3>
 Desarrollé junto a un equipo un sistema de reinscripción para el CBTis 179 en un periodo de 3 meses (01/11/2021 – 01/02/2022). Desempeñé el rol desarrollador full stack, trabajando en 
 back-end y front-end. Una vez implementado el sistema en la página oficial, mejoro la eficiencia de la página bastante, logrando inscribir mayor cantidad de alumnos y de forma más rápida.
 
+![](https://github.com/MauroRicardoFrancoCastelan/inscripcionCBTIS/blob/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/registroCBTIS.jpeg)\
+![](https://github.com/MauroRicardoFrancoCastelan/inscripcionCBTIS/blob/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/verificarDatosCBTIS.jpeg)\
+![](https://github.com/MauroRicardoFrancoCastelan/inscripcionCBTIS/blob/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/comprobanteInscripcionCBTIS.jpeg)
+
+Puedes ver el codigo completo en este [enlace](https://github.com/MauroRicardoFrancoCastelan/inscripcionCBTIS/tree/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan)
+
 <h3>Sistema de Tienda en línea</h3>
 Desarrollé un sistema de una tienda online, con inicio de sesión y registro de usuario y las funciones básicas de un CRUD, además se implementó que solo la persona que pone a la venta los artículos podrá eliminar y editar estos mismos, con los demás productos solo tendrá la opción de comprar. Se requiere una cuenta obligatoriamente para poder comprar y vender artículos, en caso de no tenerla, no lo dejara hacer ninguna de estas 2 cosas hasta que el usuario se cree una cuenta e inicie sesión en esta misma. Todo esto con una conexión a base de datos MySQL. Este fue uno de mis primeros proyectos realizados y me enfoque mas en que la pagina sea funcional y eficiente que en el diseño de esta misma.
 <br>
 
-![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/inicioSesion.png).\
-![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/registroTienda.png).\
-![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/productosTienda.png).\
-![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/barraBusqueda.png).
+![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/inicioSesion.png)\
+![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/registroTienda.png)\
+![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/productosTienda.png)\
+![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/barraBusqueda.png)
 
 Si quieres ver el código y la base de datos, puedes descargarlo desde este [enlace](https://github.com/MauroRicardoFrancoCastelan/tiendaOnline).
 
