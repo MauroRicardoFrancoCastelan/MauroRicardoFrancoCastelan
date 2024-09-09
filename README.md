@@ -42,7 +42,7 @@ Desarrollé junto a un equipo un sistema de reinscripción para el CBTis 179 en 
 back-end y front-end. Una vez implementado el sistema en la página oficial, mejoro la eficiencia de la página bastante, logrando inscribir mayor cantidad de alumnos y de forma más rápida.
 
 <h3>Sistema de Tienda en línea</h3>
-Desarrollé un sistema de una tienda online, con inicio de sesión y registro de usuario y las funciones básicas de un CRUD, además se implementó que solo la persona que pone a la venta los artículos podrá eliminar y editar estos mismos, con los demás productos solo tendrá la opción de comprar. Se requiere una cuenta obligatoriamente para poder comprar y vender artículos, en caso de no tenerla, no lo dejara hacer ninguna de estas 2 cosas hasta que el usuario se cree una cuenta e inicie sesión en esta misma. Todo esto con una conexión a base de datos MySQL.
+Desarrollé un sistema de una tienda online, con inicio de sesión y registro de usuario y las funciones básicas de un CRUD, además se implementó que solo la persona que pone a la venta los artículos podrá eliminar y editar estos mismos, con los demás productos solo tendrá la opción de comprar. Se requiere una cuenta obligatoriamente para poder comprar y vender artículos, en caso de no tenerla, no lo dejara hacer ninguna de estas 2 cosas hasta que el usuario se cree una cuenta e inicie sesión en esta misma. Todo esto con una conexión a base de datos MySQL. Este fue uno de mis primeros proyectos realizados y me enfoque mas en que la pagina sea funcional y eficiente que en el diseño de esta misma.
 <br>
 
 ![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/inicioSesion.png).\
