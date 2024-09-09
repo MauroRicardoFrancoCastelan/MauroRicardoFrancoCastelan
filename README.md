@@ -1,5 +1,5 @@
 
-<<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1 align="left">¡Hola! Soy Mauro Ricardo Franco Castelan</h1>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1 align="left">¡Hola! Soy Mauro Ricardo Franco Castelan</h1>
 
 <!-- ## 👋-->
 
@@ -48,8 +48,10 @@ Desarrollé un sistema de una tienda online, con inicio de sesión y registro de
 ![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/inicioSesion.png).\
 ![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/registroTienda.png).\
 ![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/productosTienda.png).\
-![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/barraBusqueda.png).\
+![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/barraBusqueda.png).
 
-Si quieres ver el código y la base de datos, puedes descargarlo desde este [enlace](https://github.com/MauroRicardoFrancoCastelan/tiendaOnline)
+Si quieres ver el código y la base de datos, puedes descargarlo desde este [enlace](https://github.com/MauroRicardoFrancoCastelan/tiendaOnline).
 
-
+<h3>Migracion en sistema gestor de una floreria</h3>
+En colaboración con un compañero, desarrollamos un sistema que, a pesar de su diseño sencillo, proporciona una funcionalidad robusta. El sistema permite actualizaciones en tiempo real de la base de datos, reflejando las ventas y las acciones realizadas por cada usuario.<br><br>
+Mi trabajo fue hacer un código que, al presionar un botón, la base de datos de la florería hecha en SQL Server se migrara de forma automática y completa a MySQL, haciendo uso de varias funciones para que los datos se adaptaran de una base de datos a otra.
