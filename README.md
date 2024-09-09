@@ -42,6 +42,13 @@ Desarrollé junto a un equipo un sistema de reinscripción para el CBTis 179 en 
 back-end y front-end. Una vez implementado el sistema en la página oficial, mejoro la eficiencia de la pagina bastante, logrando inscribir mayor cantidad de alumnos y de forma más rápida.
 
 <h3>Sistema de Tienda en linea</h3>
-Desarrollé un sistema de una tienda online, con inicio de sesión y registro de usuario y las funciones basicas de un CRUD, ademas se implemento que aolo la persona que pone a la venta los artículos podrá eliminar y editar estos mismos, con los demás productos solo tendrá la opción de comprar. Se requiere una cuenta obligatoriamente para poder comprar y vender artículos, en caso de no tenerla, no lo dejara hacer ninguna de estas 2 cosas hasta que el usuario se cree una cuenta y inicie sesión en esta misma. Todo esto con una conexión a base de datos MySQL
+Desarrollé un sistema de una tienda online, con inicio de sesión y registro de usuario y las funciones basicas de un CRUD, ademas se implemento que aolo la persona que pone a la venta los artículos podrá eliminar y editar estos mismos, con los demás productos solo tendrá la opción de comprar. Se requiere una cuenta obligatoriamente para poder comprar y vender artículos, en caso de no tenerla, no lo dejara hacer ninguna de estas 2 cosas hasta que el usuario se cree una cuenta y inicie sesión en esta misma. Todo esto con una conexión a base de datos MySQL.
 
+![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/inicioSesion.png).\
+![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/registroTienda.png).\
+![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/productosTienda.png).\
+![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/barraBusqueda.png).\
+<br>
+
+Si quieres ver el codigo y la base de datos, puedes descargarlo desde este [enlace]()
 
