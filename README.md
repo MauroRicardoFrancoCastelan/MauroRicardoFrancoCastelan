@@ -49,7 +49,7 @@ Desarrollé un sistema de una tienda online, con inicio de sesión y registro de
 ![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/registroTienda.png).\
 ![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/productosTienda.png).\
 ![](https://github.com/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/blob/main/barraBusqueda.png).\
-<br>
 
 Si quieres ver el codigo y la base de datos, puedes descargarlo desde este [enlace](https://github.com/MauroRicardoFrancoCastelan/tiendaOnline)
+
 
