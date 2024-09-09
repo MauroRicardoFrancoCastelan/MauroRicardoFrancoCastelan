@@ -6,7 +6,7 @@
 <h2>👨🏻‍💻 &nbsp;Sobre mi</h2>
 
 👨‍💻 &nbsp;: Estudiante de Ingeniería en Sistemas Computacionales con interés en el área de desarrollo web, más en específico en desarrollo Full stack, programación y configuración general en área de redes.
-Mi objetivo es mostrar mis proyectos académicos y trabajos de programación a lo largo de mi vida\
+Mi objetivo es mostrar mis proyectos académicos y trabajos de programación a lo largo de mi vida.\
 🎓 &nbsp;: Estudiando en la Politécnica de Tulancingo. Cursando el segundo año de la carrera.\
 :muscle: &nbsp;: En mi tiempo libre me gusta ir al gimnasio, escuchar música y jugar videojuegos.\
 ✉️ &nbsp;: Puedes contactarme vía Gmail maurofrancocastelan@gmail.com Tratare de responder lo más pronto posible.\
@@ -17,7 +17,7 @@ Mi objetivo es mostrar mis proyectos académicos y trabajos de programación a l
 
 ### 🛠 &nbsp;Formación académica y certificaciones.
 :white_check_mark: Promedio General de 9.0 actualmente en la carrera y sobresaliente en Ingles, exentando 5 de las 7 materias de ingles cursadas hasta el momento.\
-:white_check_mark: Técnico en Programación egresado del Centro de BachilleratoTecnológico Industrial y de Servicios No.179 (CBTIS 179) 2019 - 2022.\
+:white_check_mark: Técnico en Programación egresado del Centro de Bachillerato Tecnológico Industrial y de Servicios No.179 (CBTIS 179) 2019 - 2022.\
 :white_check_mark: Certificado de curso Administrador de base de datos de la Fundación Carlos Slim.\
 :white_check_mark: Certificación de CISCO en CCNA: Introduction to Networks (ITN).\
 :white_check_mark: Certificación de CISCO en CCNA: Switching, Wireless and Routing Essentials.\
