@@ -82,14 +82,14 @@ Geofencing: Activa o desactiva funciones como el "Modo No Molestar" según la ub
 Integración con Calendario de Eventos: Ajusta configuraciones de silencio según los eventos del usuario.
 
 Características Clave
-1. Zonas de Silencio (Geofencing)
+1. Zonas de Silencio (Geofencing)<br>
 SilentSync permite crear zonas geográficas, llamadas "Zonas de Silencio", donde el dispositivo se ajusta automáticamente a un modo de silencio al ingresar en estas áreas. Esto asegura un entorno libre de distracciones, perfecto para oficinas, casas o cualquier lugar relevante.
 
-2. Sincronización con el Calendario de Eventos
+2. Sincronización con el Calendario de Eventos<br>
 SilentSync se sincroniza con el calendario de eventos del dispositivo, adaptando las configuraciones de la aplicación automáticamente según las reuniones o actividades programadas.
 
-3. Historial de Uso y Registro de Activaciones
+3. Historial de Uso y Registro de Activaciones<br>
 La aplicación guarda un registro detallado de las activaciones, incluyendo las Zonas de Silencio, permitiendo al usuario analizar su patrón de uso y ajustar las configuraciones de manera más precisa.
 
-4. Modo de Funcionamiento en Segundo Plano
+4. Modo de Funcionamiento en Segundo Plano<br>
 La aplicación puede operar en segundo plano, gestionando las zonas de silencio y los eventos del calendario sin necesidad de intervención constante del usuario.
