@@ -65,5 +65,31 @@ Mi trabajo fue hacer un código que, al presionar un botón, la base de datos de
 
 Puedes ver el codigo sobre esta migracion en este [enlace](https://github.com/MauroRicardoFrancoCastelan/migracion/blob/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/migracion.cpp)
 
-<h3>Aportacion de Proyeto subido a la nube usando React y Nodejs </h3>
-En colaboracion con un compañero, desarrollamos un sistema bastante simple, |
+<h3>Aplicacion movil SilentSync </h3>
+SilentSync es más que solo una herramienta para ofrecer silencio. Su objetivo es crear un ambiente de absoluta comodidad, orden y armonía en cualquier momento o lugar. A través de la personalización, SilentSync transforma cualquier espacio en un refugio personal, donde la tranquilidad y eficiencia se adaptan a las necesidades del usuario.
+
+Este proyecto busca conectar al usuario con su entorno mediante el silencio, la calma y el equilibrio, herramientas esenciales para mejorar la concentración, el bienestar y la experiencia diaria.
+
+Tecnologías Utilizadas
+SilentSync se apoya en tecnologías avanzadas para ofrecer una experiencia totalmente adaptada a cada usuario. Las principales tecnologías utilizadas son:
+
+Android Studio, Java, Kotlin: Para el desarrollo de la aplicación, garantizando rendimiento y fluidez en dispositivos Android.
+
+API de Google Maps: Para una personalización precisa basada en la geolocalización.
+
+Geofencing: Activa o desactiva funciones como el "Modo No Molestar" según la ubicación del usuario.
+
+Integración con Calendario de Eventos: Ajusta configuraciones de silencio según los eventos del usuario.
+
+Características Clave
+1. Zonas de Silencio (Geofencing)
+SilentSync permite crear zonas geográficas, llamadas "Zonas de Silencio", donde el dispositivo se ajusta automáticamente a un modo de silencio al ingresar en estas áreas. Esto asegura un entorno libre de distracciones, perfecto para oficinas, casas o cualquier lugar relevante.
+
+2. Sincronización con el Calendario de Eventos
+SilentSync se sincroniza con el calendario de eventos del dispositivo, adaptando las configuraciones de la aplicación automáticamente según las reuniones o actividades programadas.
+
+3. Historial de Uso y Registro de Activaciones
+La aplicación guarda un registro detallado de las activaciones, incluyendo las Zonas de Silencio, permitiendo al usuario analizar su patrón de uso y ajustar las configuraciones de manera más precisa.
+
+4. Modo de Funcionamiento en Segundo Plano
+La aplicación puede operar en segundo plano, gestionando las zonas de silencio y los eventos del calendario sin necesidad de intervención constante del usuario.
