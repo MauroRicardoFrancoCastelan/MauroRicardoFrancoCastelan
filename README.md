@@ -93,3 +93,20 @@ La aplicación guarda un registro detallado de las activaciones, incluyendo las 
 
 4. Modo de Funcionamiento en Segundo Plano<br>
 La aplicación puede operar en segundo plano, gestionando las zonas de silencio y los eventos del calendario sin necesidad de intervención constante del usuario.
+
+<h3>Aportacion en Codigo de libreria digital usando React, Node.js y Github</h3>
+Durante el cuatrimestre actual, desarrollé junto con un compañero un proyecto de una biblioteca digital como práctica académica. La aplicación permite:
+
+Iniciar sesión y registrar usuarios.
+
+Cargar libros en formato PDF.
+
+Visualizar los libros de todos los usuarios.
+
+Realizar operaciones CRUD sobre los libros.
+
+Editar el perfil de usuario.
+
+Aunque el proyecto era relativamente sencillo, el principal reto consistió en aprender y aplicar nuevas tecnologías como React y Node.js, además de colaborar usando GitHub, donde cada integrante subió sus propias contribuciones al repositorio.<br><br>
+Puedes ver el repositorio completo en este [enlace](https://github.com/JIsaiCanalesOrtega/book-crud)<br>
+Puedes ver mis aportaciones al codigo en este [enlace](https://github.com/JIsaiCanalesOrtega/book-crud/commits?author=MauroRicardoFrancoCastelan)
