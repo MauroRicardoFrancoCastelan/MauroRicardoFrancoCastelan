@@ -66,7 +66,7 @@ Mi trabajo fue hacer un código que, al presionar un botón, la base de datos de
 Puedes ver el codigo sobre esta migracion en este [enlace](https://github.com/MauroRicardoFrancoCastelan/migracion/blob/MauroRicardoFrancoCastelan/MauroRicardoFrancoCastelan/migracion.cpp)
 
 <h3>Aplicacion movil SilentSync </h3>
-SilentSync es más que solo una herramienta para ofrecer silencio. Su objetivo es crear un ambiente de absoluta comodidad, orden y armonía en cualquier momento o lugar. A través de la personalización, SilentSync transforma cualquier espacio en un refugio personal, donde la tranquilidad y eficiencia se adaptan a las necesidades del usuario.
+Como proyecto final del octavo cuatrimestre de mi carrera, desarrollé SylentSync, una aplicación móvil que permite crear zonas de silencio. Cuando un usuario entra en una de estas zonas, su teléfono se pone automáticamente en modo "No molestar". Además, la aplicación se integra con Google Calendar, de manera que al programar un evento específico, el dispositivo activa automáticamente el modo "No molestar" durante la duración del mismo.
 
 Este proyecto busca conectar al usuario con su entorno mediante el silencio, la calma y el equilibrio, herramientas esenciales para mejorar la concentración, el bienestar y la experiencia diaria.
 
