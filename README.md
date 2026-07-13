@@ -5,7 +5,7 @@
 
 <h2>👨🏻‍💻 &nbsp;Sobre mi</h2>
 
-👨‍💻 &nbsp;: Estudiante de Ingeniería en Sistemas Computacionales con interés en el área de desarrollo web, más en específico en desarrollo Full stack, programación y configuración general en área de redes.
+👨‍💻 &nbsp;: Ingeniero en Sistemas Computacionales con interés en el área de desarrollo web, más en específico en desarrollo Full stack, programación y configuración general en área de redes.
 Mi objetivo es mostrar mis proyectos académicos y trabajos de programación a lo largo de mi vida.\
 🎓 &nbsp;: Estudiando en la Politécnica de Tulancingo. Cursando el segundo año de la carrera.\
 :muscle: &nbsp;: En mi tiempo libre me gusta ir al gimnasio, escuchar música y jugar videojuegos.\
