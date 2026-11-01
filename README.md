@@ -9,14 +9,14 @@
 Mi objetivo es mostrar mis proyectos académicos y trabajos de programación a lo largo de mi vida.\
 🎓 &nbsp;: Estudiando en la Politécnica de Tulancingo. Cursando el segundo año de la carrera.\
 :muscle: &nbsp;: En mi tiempo libre me gusta ir al gimnasio, escuchar música y jugar videojuegos.\
-✉️ &nbsp;: Puedes contactarme vía Gmail maurofrancocastelan@gmail.com Tratare de responder lo más pronto posible.\
-📄 &nbsp;Puedes revisar mi [CV](https://drive.google.com/file/d/1YCXGr3qkEUlbbVhbr1Oav71XxO9KqXhR/view?usp=sharing) para más detalles sobre mí. ¡Estoy abierto a feedback y sugerencias!
+✉️ &nbsp;: Puedes contactarme vía Gmail maurofrancocastelan@gmail.com\
+📄 &nbsp;Puedes revisar mi [CV](https://drive.google.com/file/d/1qckkQuMy5Ds1p5ZQEHfqIemvzRo5f84L/view?usp=sharing) para más detalles sobre mí.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Formación académica y certificaciones.
-:white_check_mark: Promedio General de 9.0 actualmente en la carrera y sobresaliente en Ingles, exentando 5 de las 7 materias de ingles cursadas hasta el momento.\
+:white_check_mark: Promedio General de 9.0 actualmente en la carrera y con Ingles Avanzado.\
 :white_check_mark: Técnico en Programación egresado del Centro de Bachillerato Tecnológico Industrial y de Servicios No.179 (CBTIS 179) 2019 - 2022.\
 :white_check_mark: Certificado de curso Administrador de base de datos de la Fundación Carlos Slim.\
 :white_check_mark: Certificación de CISCO en CCNA: Introduction to Networks (ITN).\
